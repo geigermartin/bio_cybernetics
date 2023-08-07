@@ -15,6 +15,7 @@ In the simulation practice module, we carried out multibody simulations, where w
 Furthermore, we learned to train a quadruped agent to walk via **reinforcement learning**:
 
 ![ quadrupe_agent](simulation_practice/reinforcementLearning/quadrupedAgent.jpg)
+<img src="./simulation_practice/reinforcementLearning/quadrupedAgent.jpg" alt="quadrupedAgent" width="393" height="260"/>
 
 ## Folder Structure 
 ```
