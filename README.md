@@ -10,11 +10,11 @@ In the **soft robotics** project, my project partner and I developed a soft robo
 
 In the simulation practice module, we carried out multibody simulations, where we implemented different **control concepts (PID, bioinspired)** in Matlab/Simulink.
 
-![PID_controller]( simulation_practice / multibodySim_PIDcontrol / PIDcontrol_simulink.jpg)
+![PID_controller](simulation_practice/multibodySim_PIDcontrol/PIDcontrol_simulink.jpg)
 
 Furthermore, we learned to train a quadruped agent to walk by implementing **reinforcement learning**
 
-![ quadrupe_agent](simulation_practice/reinforcementLearning /quadrupedAgent.jpg)
+![ quadrupe_agent](simulation_practice/reinforcementLearning/quadrupedAgent.jpg)
 
 ## Folder Structure 
 ```
